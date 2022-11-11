@@ -1,22 +1,22 @@
 [app]
 
-# (str) Title of your application
-title = SampleApp
+# (str) Título do seu aplicativo
+title = denilson
 
-# (str) Package name
-package.name = sampleapk
+# (str) nome do pacote
+package.name = denilsonapk
 
-# (str) Package domain (needed for android/ios packaging)
+# (str) Domínio do pacote (necessário para empacotamento android/ios)
 package.domain = org.novfensec
 
-# (str) Source code where the main.py live
+# (str) Código fonte onde o main.py fica
 source.dir = .
 
-# (list) Source files to include (let empty to include all the files)
+# (list) Arquivos de origem a serem incluídos (deixe vazio para incluir todos os arquivos)
 source.include_exts = py,png,jpg,kv,txt,atlas
 
 # (list) List of inclusions using pattern matching
-source.include_patterns = images/*.png
+source.include_patterns = teste00/*.png
 
 # (list) Source files to exclude (let empty to not exclude anything)
 #source.exclude_exts = spec
