@@ -1,10 +1,10 @@
 [app]
 
 # (str) Título do seu aplicativo
-title = denilson
+title = megablaze
 
 # (str) nome do pacote
-package.name = denilsonapk
+package.name = megablazetst
 
 # (str) Domínio do pacote (necessário para empacotamento android/ios)
 package.domain = org.novfensec
